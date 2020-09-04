@@ -12,6 +12,7 @@ void daw_ship()
 }
 int main() 
 {
+	gotoxy(10,10);
 	daw_ship();
 	return 0;
 
